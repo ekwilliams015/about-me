@@ -5,9 +5,10 @@ This is my developer website
 Elijah Williams - Section 2 - Dr. Denise Case / 10am
 ## Repository Links
 - [README.md](https://github.com/ekwilliams015/about-me/edit/master/README.md)
+- [Site](https://ekwilliams015.github.io/about-me/)
 
 
-
+## About Me
 Current
 
 I am a senior majoring in Management Information Systems. I have lived in Maryville my whole life, and am hoping to get out as soon as I can after I graduate this May. Some of my hobbies include video games, weightlifting, and bowling. I also am a huge Kansas City Chiefs fan and am ready to hopefully not be disappointed again this weekend. 
@@ -20,5 +21,3 @@ Links:
 
 LinkedIn Profile: https://www.linkedin.com/in/elijah-williams-938b08161/
 
-hello
-how is it going
