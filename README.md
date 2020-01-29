@@ -4,7 +4,7 @@ This is my developer website
 
 Elijah Williams - Section 2 - Dr. Denise Case / 10am
 ## Repository Links
-- [README.md](https://github.com/ekwilliams015/about-me/edit/master/README.md)
+- [README.md](https://github.com/ekwilliams015/about-me)
 - [Site](https://ekwilliams015.github.io/about-me/)
 
 
