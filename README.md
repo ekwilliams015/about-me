@@ -8,16 +8,11 @@ Elijah Williams - Section 2 - Dr. Denise Case / 10am
 - [Site](https://ekwilliams015.github.io/about-me/)
 
 
-## About Me
-Current
+## About
+This repo will be used to practice markdown and create an about me web page. 
 
-I am a senior majoring in Management Information Systems. I have lived in Maryville my whole life, and am hoping to get out as soon as I can after I graduate this May. Some of my hobbies include video games, weightlifting, and bowling. I also am a huge Kansas City Chiefs fan and am ready to hopefully not be disappointed again this weekend. 
-
-Future
-
-For my plans after I graduate, I plan to live with my parents and save money until I find a job I like. I do not have any specific job aspirations, I would like to test the waters with different companies until I find my niche (or whatever pays best).
-
-Links:
-
-LinkedIn Profile: https://www.linkedin.com/in/elijah-williams-938b08161/
+## Recommended Tools & Languages
+All you need to publish a repo to with GitHub pages is a computer and the know-how:
+  - [markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) language is the main language for GitHub Pages
+  - A GitHub account is needed 
 
