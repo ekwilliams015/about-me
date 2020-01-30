@@ -1,6 +1,5 @@
 # about-me
 
-This is my developer website
 
 Elijah Williams - Section 2 - Dr. Denise Case / 10am
 ## Repository Links
@@ -12,7 +11,7 @@ Elijah Williams - Section 2 - Dr. Denise Case / 10am
 This repo will be used to practice markdown and create an about me web page. 
 
 ## Recommended Tools & Languages
-All you need to publish a repo to with GitHub pages is a computer and the know-how:
-  - [markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) language is the main language for GitHub Pages
-  - A GitHub account is needed 
+The only things you need to publish a repo with GitHub Pages is a GitHub account and markdown language:
+  - [markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) language is the main language for 
+  -[Create a GitHub account here](https://github.com/join?source=header-home)
 
