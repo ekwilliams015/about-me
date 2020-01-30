@@ -15,4 +15,12 @@ The only things you need to publish a repo with GitHub Pages is a GitHub account
   - [Markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) is a markup language
     
   - [Create a GitHub account here.](https://github.com/join?source=header-home)
+  
+  ## Recommended Resources
+  
+  - [W3Schools](https://www.w3schools.com/) has helped me a lot with web development and programming.
+  
+  - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
+  
+  - [Codementor](https://www.codementor.io/u/dashboard) is a site where you can get live help with your code.
 
