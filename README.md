@@ -12,7 +12,7 @@ This repo will be used to practice markdown and create an about me web page.
 
 ## Recommended Tools & Languages
 The only things you need to publish a repo with GitHub Pages is a GitHub account and markdown language:
-  - [markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) language is a markup language.
-  
-  -[Create a GitHub account here.](https://github.com/join?source=header-home)
+  - [markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) language is a markup language
+    
+  - [Create a GitHub account here.](https://github.com/join?source=header-home)
 
