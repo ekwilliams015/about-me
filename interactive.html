@@ -82,6 +82,10 @@
   oninput="lengthConverter(this.value)" onchange="lengthConverter(this.value)">
 </p>
 <p>cm: <span id="outputMeters"></span></p>
+    
+    function lengthConverter(valNum) {
+  document.getElementById("outputMeters").innerHTML = valNum / 0.0022046;
+}
 </body>
 
 
