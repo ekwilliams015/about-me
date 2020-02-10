@@ -17,3 +17,7 @@ table {border-collapse:collapse;border-spacing:0;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-cly1{text-align:left;vertical-align:middle}
 .tg .tg-0lax{text-align:left;vertical-align:top}}
+
+img {
+  border-radius: 50%;
+}
