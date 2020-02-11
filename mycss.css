@@ -2,6 +2,7 @@ header, nav, h2 { display: block; }
 
 header {background-color: gray;
 float: center;
+text-align: center;
 padding-bottom: 10;
 }
 body { background-color: gray;}
@@ -13,7 +14,7 @@ nav a {font-weight: italic;
 	 float: center;
      width: 150px;}
 article {
-    border: 1px solid black;
+    border: none;
     padding: 2em;
     background-color: aliceblue;
 }
@@ -28,8 +29,9 @@ img {
   border-radius: 80%;
   float: center;
 }
-footer { float: center;
+footer { text-align: center;
   padding-top: 50;
-  font-size: .5em;
-  background-color: aliceblue;
+  font-size: .75em;
+  background-color: gray;
+  color: white;
 }
