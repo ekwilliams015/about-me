@@ -16,6 +16,7 @@ nav a {font-weight: italic;
 article {
     border: none;
     padding: 2em;
+    padding-left: 40;
     background-color: aliceblue;
 }
 
