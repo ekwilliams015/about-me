@@ -1,9 +1,12 @@
 header, nav, h2 { display: block; }
 
-
+header {;
+float: center;
+padding-bottom: 10;}
 h2 { color: #003366;}
 
 nav a {font-weight: italic;
+  
      font-size: 1.2em;
 	 float: center;
      width: 150px;}
@@ -21,7 +24,8 @@ table {border-collapse:collapse;border-spacing:0;}
 
 img {
   border-radius: 80%;
+  float: center;
 }
-footer { float: right;
+footer { float: center;
 	font-size: 1.2em
 }
