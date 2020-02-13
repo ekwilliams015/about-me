@@ -16,6 +16,7 @@ The only things you need to publish a repo with GitHub Pages is a GitHub account
     
   - [Create a GitHub account here.](https://github.com/join?source=header-home)
   
+  
   ## Recommended Resources
   
   - [W3Schools](https://www.w3schools.com/) has helped me a lot with web development and programming.
