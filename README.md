@@ -24,7 +24,7 @@ The only things you need to publish a repo with GitHub Pages is a GitHub account
   - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
   
   - [Codementor](https://www.codementor.io/u/dashboard) is a site where you can get live help with your code.
-  
+  h
   ## Contributors
   Elijah Williams - Management Information Systems
   
