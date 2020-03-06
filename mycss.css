@@ -32,8 +32,9 @@ img {
   border-radius: 80%;
   float: center;
 }
-footer { text-align: center;
-  padding-top: 50;
+footer { 
+  text-align: center;
+  padding-top: 100;
   font-size: .75em;
   background-color: gray;
   color: white;
@@ -43,9 +44,9 @@ footer { text-align: center;
   padding-top: 1%;
 }
 #addButton{
-  
+  padding-bottom: 100;
   float: right;
-  background-color: purple;
-  color: red;
+  background-color: black;
+  color: aliceblue;
   text-decoration-color: yellow;
 }
