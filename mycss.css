@@ -44,9 +44,20 @@ footer {
   padding-top: 1%;
 }
 #addButton{
-  padding-bottom: 100;
+  padding-bottom: 50;
   float: right;
   background-color: black;
   color: aliceblue;
   text-decoration-color: yellow;
+}
+.addButton{
+  
+  float: right;
+  background-color: aliceblue;
+  color: black;
+  text-decoration-color: yellow; 
+}
+br{
+  padding-top: 50;
+  padding-bottom: 50;
 }
