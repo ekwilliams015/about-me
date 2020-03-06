@@ -6,7 +6,9 @@ text-align: center;
 padding-bottom: 10;
 }
 body { background-color: gray;}
-h2 { color: #003366;}
+h2 { color: #003366;
+text-align: left;
+}
 
 nav a {font-weight: italic;
   
@@ -39,4 +41,11 @@ footer { text-align: center;
  
 #profile{
   padding-top: 1%;
+}
+#addButton{
+  
+  float: right;
+  background-color: purple;
+  color: red;
+  text-decoration-color: yellow;
 }
